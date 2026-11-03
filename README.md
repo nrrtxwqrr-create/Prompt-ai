@@ -1,2 +1,3 @@
-# Prompt-ai
-This prompt makes AI more pleasant to use for coding and daily use and easy to use practically. 
+Open the AI you want to use 
+Paste the txt that was provided earlier 
+Send to ai and done 
